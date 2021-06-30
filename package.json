@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Georgeatkinsonwd/ufc264-api/issues"
   },
-  "homepage": "https://github.com/Georgeatkinsonwd/ufc264-api#readme"
+  "homepage": "https://github.com/Georgeatkinsonwd/ufc264-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
